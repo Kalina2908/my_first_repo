@@ -6,3 +6,5 @@
 Добавлен текст в браузере. Add English text in browser.
 
 В данной строке дополнен текст для конфликта.
+Conflict text in browser.
+
