@@ -9,3 +9,5 @@
 Conflict text in browser.
 
 ![Это котик](Cat.jpg) 
+
+![Это собака](dog.jpg)
